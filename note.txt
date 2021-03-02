@@ -1,0 +1,16 @@
+***Creer index.html
+ ***ajouter Vue.js à index.html (le lien sur le site)
+ ***creer une  instance Vue dans app.js
+ ***afficher le message depuis Vue instance sur la page
+ ***creer un nouveau formulaire Todo 
+ ***appeller une fonction quand le formulaire est validé 
+ ***creer une propreté string  sur les textes que nous avons inscrit pour les enregistrer 
+ ***verifier les changements dans la console 
+ ***afficher la fonction validation du fomulaire
+ ***Créer une propriété de tableau sur nos données pour les todos
+ ***Poussez le nouveau todo dans le tableau des todos, avec fait : faux
+ ***Affichez les todos dans une liste
+ ***Vérification d'un todo pour le marquer comme fait
+ ***Affichez une ligne dans le texte du todo
+ ***Ajouter un bouton pour supprimer un todo
+ ***Ajouter un bouton pour marquer tous les todos comme fait
